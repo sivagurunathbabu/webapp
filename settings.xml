@@ -2,14 +2,14 @@
   xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.org/xsd/settings-1.0.0.xsd">
   <servers>
     <server>
-      <id>webapp_user</id>
-      <username>webapp_user</username>
-      <password>Webapp10user</password>
+      <id>webuser</id>
+      <username>webuser</username>
+      <password>webuser</password>
     </server>
     <server>
-      <id>webapp_user</id>
-      <username>webapp_user</username>
-      <password>Webapp10user</password>
+      <id>webuser</id>
+      <username>webuser</username>
+      <password>webuser</password>
     </server>
   </servers>
 </settings>
