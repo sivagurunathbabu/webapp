@@ -29,9 +29,8 @@ pipeline {
                      withSonarQubeEnv('sonar') {
                           sh "mvn clean verify sonar:sonar -Dsonar.projectKey=myapp"
                       }
-
-
-           
+          
+                 }
         }
     }
 }
